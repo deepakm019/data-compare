@@ -1,0 +1,58 @@
+@{id=6, name=Frank Miller}
+email
+<frank.miller@example.com
+>frank.millers@example.com
+@{id=15, name=Olivia Green}
+email
+<olivia.green@example.com
+>olivia.wilde@example.com
+@{id=16, name=Paul Harris}
+department
+<Marketing
+>Marketings
+!{id=18, name=Ruby Carter}
+>
+!{id=18, name=Sam Foster}
+<
+!{id=19, name=Sam Foster}
+>
+!{id=19, name=Tina Brooks}
+<
+!{id=20, name=Tina Brooks}
+>
+!{id=20, name=Uma Clarke}
+<
+!{id=21, name=Uma Clarke}
+>
+!{id=21, name=Victor Shaw}
+<
+!{id=22, name=Victor Shaw}
+>
+!{id=22, name=Wendy Adams}
+<
+!{id=23, name=Wendy Adams}
+>
+!{id=23, name=Xander Ray}
+<
+!{id=24, name=Xander Ray}
+>
+!{id=24, name=Yara Bell}
+<
+!{id=25, name=Yara Bell}
+>
+!{id=25, name=Zane Parker}
+<
+!{id=26, name=Ann Roberts}
+<
+!{id=26, name=Zane Parker}
+>
+!{id=27, name=Ann Roberts}
+>
+!{id=27, name=Ben Turner}
+<
+!{id=28, name=Ben Turner}
+>
+!{id=28, name=Cara Evans}
+<
+!{id=29, name=Cara Evans}
+>

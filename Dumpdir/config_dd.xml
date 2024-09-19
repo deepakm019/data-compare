@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+
+	<bean id="plan" class="org.diffkit.diff.conf.DKMagicPlan">
+		<property name="lhsFilePath" value="C:/Users/Deepak/IdeaProjects/database-compare-tool/Dumpdir/src_dd.csv" />
+		<property name="rhsFilePath" value="C:/Users/Deepak/IdeaProjects/database-compare-tool/Dumpdir/tgt_dd.csv" />
+		<property name="sinkFilePath" value="C:/Users/Deepak/IdeaProjects/database-compare-tool/Dumpdir/final.sink_dd.diff" />
+		<property name="keyColumnNames">
+		<list>
+			<value>id</value>
+			<value>name</value>
+		</list>
+
+		</property>
+	</bean>
+
+</beans>

@@ -1,0 +1,39 @@
+Key,Attribute,Left Value,Right Value
+id=22, name=Wendy Adams,Missing,Left,Missing in Right
+id=6, name=Frank Miller,email,frank.miller@example.com,frank.millers@example.com
+id=26, name=Ann Roberts,Missing,Left,Missing in Right
+id=16, name=Paul Harris,department,Marketing,Marketings
+id=27, name=Ben Turner,Missing,Left,Missing in Right
+id=24, name=Xander Ray,Missing,Left,Missing in Right
+id=24, name=Xander Ray,department,,
+id=25, name=Zane Parker,Missing,Left,Missing in Right
+id=24, name=Yara Bell,Missing,Left,Missing in Right
+id=19, name=Tina Brooks,Missing,Left,Missing in Right
+id=23, name=Wendy Adams,Missing,Left,Missing in Right
+id=23, name=Wendy Adams,department,,
+id=28, name=Ben Turner,Missing,Left,Missing in Right
+id=28, name=Ben Turner,department,,
+id=20, name=Tina Brooks,Missing,Left,Missing in Right
+id=20, name=Tina Brooks,department,,
+id=22, name=Victor Shaw,Missing,Left,Missing in Right
+id=22, name=Victor Shaw,department,,
+id=25, name=Yara Bell,Missing,Left,Missing in Right
+id=25, name=Yara Bell,department,,
+id=15, name=Olivia Green,email,olivia.green@example.com,olivia.wilde@example.com
+id=19, name=Sam Foster,Missing,Left,Missing in Right
+id=19, name=Sam Foster,department,,
+id=21, name=Uma Clarke,Missing,Left,Missing in Right
+id=21, name=Uma Clarke,department,,
+id=29, name=Cara Evans,Missing,Left,Missing in Right
+id=29, name=Cara Evans,department,,
+id=27, name=Ann Roberts,Missing,Left,Missing in Right
+id=27, name=Ann Roberts,department,,
+id=28, name=Cara Evans,Missing,Left,Missing in Right
+id=18, name=Ruby Carter,Missing,Left,Missing in Right
+id=18, name=Ruby Carter,department,,
+id=21, name=Victor Shaw,Missing,Left,Missing in Right
+id=20, name=Uma Clarke,Missing,Left,Missing in Right
+id=26, name=Zane Parker,Missing,Left,Missing in Right
+id=26, name=Zane Parker,department,,
+id=18, name=Sam Foster,Missing,Left,Missing in Right
+id=23, name=Xander Ray,Missing,Left,Missing in Right
